@@ -1,4 +1,4 @@
-# Two Galaxies Colliding on Aurora
+# Simulation of Two Galaxies Colliding on Aurora Supercomputer
 
 A direct-summation N-body simulation of two disk galaxies merging, written in
 SYCL + MPI and run on [Aurora](https://www.alcf.anl.gov/aurora), the exascale

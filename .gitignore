@@ -1,0 +1,11 @@
+# build output
+nbody
+vecadd
+*.o
+
+# data: regenerate with make_ic.py / run_all.sh
+*.bin
+snaps/
+frames/
+venv/
+out/
